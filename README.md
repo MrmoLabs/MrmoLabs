@@ -1,28 +1,29 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Mrmo072 — Visual Tool Builder" width="100%" />
+  <img src="./assets/header.svg" alt="Mrmo072 — Backend Engineer and Product Builder" width="100%" />
 </p>
 
 <p align="center">
-  <strong>Building tools that turn complex information into clear, interactive experiences.</strong><br />
-  <sub>把复杂信息做成清晰、可交互、真正有用的工具。</sub>
+  <strong>From backend systems to product delivery — building practical tools that solve real problems.</strong><br />
+  <sub>从后端系统到产品落地，把真实问题做成清晰、可用的解决方案。</sub>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=7DE3FF" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=7DE3FF" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=7DE3FF" alt="Python" />
-  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=7DE3FF" alt="React" />
-  <img src="https://img.shields.io/badge/Electron-111827?style=flat-square&logo=electron&logoColor=7DE3FF" alt="Electron" />
-  <img src="https://img.shields.io/badge/PyQt6-111827?style=flat-square&logo=qt&logoColor=7DE3FF" alt="PyQt6" />
-  <img src="https://img.shields.io/badge/Three.js-111827?style=flat-square&logo=threedotjs&logoColor=7DE3FF" alt="Three.js" />
   <img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=7DE3FF" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Electron-111827?style=flat-square&logo=electron&logoColor=7DE3FF" alt="Electron" />
+  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=7DE3FF" alt="React" />
 </p>
 
 ## About
 
-I build visual tools, desktop applications, and experimental interfaces. I enjoy turning dense workflows and complex information into products that feel direct, legible, and satisfying to use.
+My professional background is in **Java and Spring Boot backend development**, followed by experience as both a **Project Manager** and **Product Manager**. That combination helps me connect system architecture, delivery, user needs, and product decisions from end to end.
 
-- Building local-first desktop tools and rich interactive experiences
-- Exploring AI-assisted product development and practical automation
-- Caring about visual clarity, deliberate interaction, and maintainable systems
+- Engineering reliable backend services and maintainable business systems
+- Coordinating scope, teams, schedules, risks, and cross-functional delivery
+- Turning user needs into product requirements, interactions, and shipped solutions
+- Currently exploring desktop software, visualization, and AI-assisted product development
 
 ## Selected Work
 
@@ -53,13 +54,13 @@ I build visual tools, desktop applications, and experimental interfaces. I enjoy
   </tr>
 </table>
 
-## How I Build
+## How I Work
 
 ```text
-clarity over clutter  ·  useful over ornamental  ·  local-first when practical
+engineering depth  ·  delivery awareness  ·  product thinking
 ```
 
-I like projects where interaction design, engineering, and visual systems reinforce each other. The goal is not just to make software work—it should also make the underlying idea easier to see.
+I approach projects from three connected perspectives: whether the system is technically sound, whether the team can deliver it reliably, and whether the result solves the right user problem. The tools and interfaces shown here are extensions of that backend, project, and product experience.
 
 ---
 
