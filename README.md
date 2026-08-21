@@ -30,19 +30,19 @@ My professional background is in **Java and Spring Boot backend development**, f
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Mrmo072/InkSight">InkSight</a></h3>
+      <h3><a href="https://github.com/MrmoLabs/InkSight">InkSight</a></h3>
       <p>A modern reading and knowledge workspace that brings deep reading, mind mapping, and visual knowledge management together.</p>
       <code>Electron</code> <code>React</code> <code>Knowledge Tools</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Mrmo072/YoRHa-HexFlow">YoRHa-HexFlow</a></h3>
+      <h3><a href="https://github.com/MrmoLabs/YoRHa-HexFlow">YoRHa-HexFlow</a></h3>
       <p>A highly visual hexadecimal instruction orchestrator for binary protocol design, presented through a distinctive industrial interface.</p>
       <code>React</code> <code>FastAPI</code> <code>Protocol Design</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Mrmo072/rogue-station">rogue-station</a></h3>
+      <h3><a href="https://github.com/MrmoLabs/rogue-station">rogue-station</a></h3>
       <p>A cinematic 3D satellite visualization and inspection platform with a futuristic industrial visual system.</p>
       <code>React</code> <code>Three.js</code> <code>GSAP</code>
     </td>
