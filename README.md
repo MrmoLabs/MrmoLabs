@@ -18,7 +18,7 @@
 
 ## About
 
-I'm an independent builder focused on visual tools, desktop applications, and experimental interfaces. I enjoy turning dense workflows and complex information into products that feel direct, legible, and satisfying to use.
+I build visual tools, desktop applications, and experimental interfaces. I enjoy turning dense workflows and complex information into products that feel direct, legible, and satisfying to use.
 
 - Building local-first desktop tools and rich interactive experiences
 - Exploring AI-assisted product development and practical automation
