@@ -30,12 +30,12 @@
   <path d="M953 77L1097 221M1097 77L953 221" stroke="#7DE3FF" stroke-opacity="0.08"/>
 
   <rect x="80" y="63" width="46" height="4" rx="2" fill="url(#accent)"/>
-  <text x="80" y="150" fill="#F1F5F9" font-family="Segoe UI, Arial, sans-serif" font-size="74" font-weight="700" letter-spacing="8">MRMO072</text>
+  <text x="80" y="150" fill="#F1F5F9" font-family="Segoe UI, Arial, sans-serif" font-size="74" font-weight="700" letter-spacing="8">MRMO LABS</text>
   <text x="84" y="198" fill="url(#accent)" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="3">BACKEND ENGINEER  /  PRODUCT BUILDER</text>
   <text x="84" y="236" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="1.5">JAVA &amp; SPRING BOOT  /  PROJECT DELIVERY  /  PRODUCT DESIGN</text>
 
   <text x="84" y="292" fill="#64748B" font-family="Consolas, monospace" font-size="12">SYSTEM.STATUS</text>
   <circle cx="205" cy="288" r="4" fill="#22D3A6"/>
   <text x="219" y="292" fill="#94A3B8" font-family="Consolas, monospace" font-size="12">BUILDING</text>
-  <text x="1020" y="292" fill="#64748B" font-family="Consolas, monospace" font-size="12">072 / GITHUB</text>
+  <text x="1010" y="292" fill="#64748B" font-family="Consolas, monospace" font-size="12">LABS / GITHUB</text>
 </svg>
