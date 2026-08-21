@@ -1,48 +1,48 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="MrmoLabs — Backend Engineer and Product Builder" width="100%" />
+  <img src="./assets/header.svg" alt="MrmoLabs — AI Product and Interaction Engineer" width="100%" />
 </p>
 
 <p align="center">
-  <strong>From backend systems to product delivery — building practical tools that solve real problems.</strong><br />
-  <sub>从后端系统到产品落地，把真实问题做成清晰、可用的解决方案。</sub>
+  <strong>Building AI-powered tools and interaction systems that turn complex workflows into practical products.</strong><br />
+  <sub>探索人与 AI 的交互方式，并把复杂工作流做成真正可用的产品。</sub>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&amp;logo=openjdk&amp;logoColor=7DE3FF" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-111827?style=for-the-badge&amp;logo=springboot&amp;logoColor=7DE3FF" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/AI_Workflows-111827?style=for-the-badge&amp;logo=openai&amp;logoColor=7DE3FF" alt="AI Workflows" />
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&amp;logo=python&amp;logoColor=7DE3FF" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&amp;logo=fastapi&amp;logoColor=7DE3FF" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Desktop_Apps-111827?style=for-the-badge&amp;logo=electron&amp;logoColor=7DE3FF" alt="Desktop Apps" />
 </p>
 
 <p align="center">
-  <code>BACKEND ENGINEERING</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>PROJECT DELIVERY</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>PRODUCT THINKING</code>
+  <code>AI INTERACTION</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>PRODUCT ENGINEERING</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>SYSTEMS THINKING</code>
 </p>
 
-## System Profile
+## Current Focus
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>⚙ Backend Engineering</h3>
-      <p>Java and Spring Boot background, with a focus on reliable services, maintainable business systems, and clear domain logic.</p>
+      <h3>◇ AI Interaction</h3>
+      <p>Exploring how people communicate, collaborate, and build with AI through conversations, intelligent workflows, and responsive interfaces.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>◫ Project Delivery</h3>
-      <p>Experience coordinating scope, teams, schedules, risks, and cross-functional delivery from planning through launch.</p>
+      <h3>⚙ Product Engineering</h3>
+      <p>Turning ideas and user needs into prototypes, local-first tools, desktop applications, and products that can be tested in the real world.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>◇ Product Thinking</h3>
-      <p>Product management experience connecting user needs, requirements, interactions, priorities, and measurable outcomes.</p>
+      <h3>◫ Systems Thinking</h3>
+      <p>Connecting interaction, architecture, delivery, and product decisions so the complete system remains useful, understandable, and maintainable.</p>
     </td>
   </tr>
 </table>
 
 ```text
-MRMO LABS / OPERATING MODEL
+MRMO LABS / AI PRODUCT LOOP
 
-01  Understand the real problem
-02  Design the system and delivery path
-03  Build, ship, observe, and iterate
+01  Understand the human intent and workflow
+02  Design the AI interaction and product system
+03  Prototype, observe, ship, and iterate
 ```
 
 ## Live Telemetry
@@ -98,10 +98,10 @@ MRMO LABS / OPERATING MODEL
 
 | Domain | Experience and tools |
 | :-- | :-- |
-| **Backend** | Java · Spring Boot · Python · FastAPI · API and business-system design |
-| **Delivery** | Scope · Planning · Risk · Team coordination · Cross-functional execution |
-| **Product** | User needs · Requirements · Prioritization · Interaction · Iteration |
-| **Creative Engineering** | Electron · React · Three.js · Desktop tools · AI-assisted workflows |
+| **AI Interaction** | Conversational flows · Human-in-the-loop systems · Intelligent workflows · Interaction feedback |
+| **Product Engineering** | Prototyping · Python · FastAPI · Electron · Desktop and local-first tools |
+| **Product Practice** | User needs · Requirements · Prioritization · Validation · Iteration |
+| **Foundations** | Java and Spring Boot backend development · Project delivery · Product management |
 
 ## Contribution Circuit
 
