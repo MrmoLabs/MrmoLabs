@@ -53,12 +53,6 @@ MRMO LABS / AI PRODUCT LOOP
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/MrmoLabs">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MrmoLabs&amp;bg_color=0B0F14&amp;color=94A3B8&amp;line=38BDF8&amp;point=7DE3FF&amp;area=true&amp;area_color=123044&amp;border_color=1E3A4A&amp;radius=10&amp;custom_title=MRMO%20LABS%20%2F%20ACTIVITY%20SIGNAL" alt="MrmoLabs activity graph" />
-  </a>
-</p>
-
 <sub>Live cards summarize public GitHub activity. Repository languages describe these projects, not the full scope of my professional background.</sub>
 
 ## Selected Work
